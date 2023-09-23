@@ -9,6 +9,9 @@ void quicksort(){
     //
 }
 
+void mergeSort(){
+    //
+}
 
 int main(){
     std::cout<<"Hello World";
