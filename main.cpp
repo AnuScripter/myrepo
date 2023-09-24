@@ -13,7 +13,12 @@ void mergeSort(){
     //
 }
 
+void InsertionSort(){
+    //
+}
+
 int main(){
     std::cout<<"Hello World";
     std::cout<<"Hello .Dot batch";
 }
+
